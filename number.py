@@ -13,7 +13,7 @@ def getCardNumbers(maxCardNum, maxNumber):
     return cardNumberList
 
 def getDescription():
-    filePath = os.path.join(os.path.dirname(__file__), 'textFile', f'{"numberDefinitions"}.yaml')
+    filePath = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'numberDefinitions.yaml')
     with open(filePath) as file:
         desc_list = yaml.load(file, Loader=yaml.FullLoader)
     print(desc_list)
