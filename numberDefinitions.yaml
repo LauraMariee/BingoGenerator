@@ -1,17 +1,11 @@
-name: "Bingo Number Description"
-original: yes
-
-number:
--"1"
--"2"
--"3"
--"4"
--"5"
-
-
-description: 
--"Kelly's Eye"
--"One little duck"
--"Cup of tea"
--"Knock at the door"
--"Man alive"
+numbers:
+- number:1
+ desc:"Kellys Eye"
+- number:2
+  desc:"One little duck"
+- number:3
+  desc:"Cup of tea"
+- number:4
+  desc:"Knock at the door"
+- number:5
+  desc:"Man Alive"
