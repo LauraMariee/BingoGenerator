@@ -2,7 +2,7 @@ from number import *
 
 def main():
     x = Number
-    print(x.getDescription(2))
+    print(x.getDescription(34))
 
 
 if __name__ == "__main__":
