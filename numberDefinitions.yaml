@@ -1,101 +1,240 @@
 numbers:
 - number: 1
-  desc: "Kellys Eye"
+  desc: "Kelly's Eye"
+  explanation: "Refers to Ned Kelly, from Ned Kelly's helmet, the eye slot resembling the number 1"
 - number: 2
   desc: "One little duck"
+  explanation: "The number 2 looks like a duck"
 - number: 3
   desc: "Cup of tea"
+  explanation: "Rhymes with 'Three'"
 - number: 4
   desc: "Knock at the door"
+  explanation: "Rhymes with 'Four'"
 - number: 5
-  desc: "Man Alive"
+  desc: "Man alive"
+  explanation: "Rhymes with 'Five'"
 - number: 6
   desc: "Half a dozen"
+  explanation: "A dozen is 12 of something, half a dozen is six"
 - number: 7
   desc: "Lucky 7"
+  explanation: "Seven is considered a lucky number in some cultures"
 - number: 8
   desc: "Garden gate"
+  explanation: "Rhymes with 'Eight'"
 - number: 9
   desc: "Take a line"
+  explanation: "Rhymes with 'Nine'"
 - number: 10
   desc: "Boris's Den"
+  explanation: "Refers to the current British Prime Minister, who lives at Number 10 Downing Street"
 - number: 11
   desc: "Legs eleven"
+  explanation: "The number eleven looks like a pair of legs"
 - number: 12
   desc: "One dozen"
+  explanation: "A dozen is 12 of something"
 - number: 13
   desc: "Unlucky for some"
+  explanation: "13 is an unlucky number in some cultures"
 - number: 14
   desc: "The Lawnmower"
+  explanation: "The original lawnmower had a 14-inch blade"
 - number: 15
   desc: "Young and Keen"
+  explanation: "Rhymes with 'Fifteen'"
 - number: 16
   desc: "Never been kissed"
+  explanation: "After the song 'Sweet Sixteen and Never Been Kissed'"
 - number: 17
   desc: "Dancing Queen"
+  explanation: "ABBA's song Dancing Queen has the number mentioned in the lyrics"
 - number: 18
   desc: "Coming of Age"
+  explanation: "Eighteen is the age of maturity in the UK"
 - number: 19
   desc: "Goodbye Teens"
+  explanation: "Nineteen is the age after which people stop being teenagers"
 - number: 20
   desc: "Getting Plenty"
+  explanation: "Rhymes with 'Twenty'"
 - number: 21
   desc: "Key of the Door"
+  explanation: "The traditional age of majority"
 - number: 22
   desc: "Two little ducks"
+  explanation: "The number twenty-two looks like two ducks"
 - number: 23
-  desc: "Goodbye Teens"
-- number: 24
   desc: "The Lord is My Shepherd"
+  explanation: "The first words of Psalm 23 of the Old Testament"
+- number: 24
+  dec: "Two dozen"
+  explanation: "12 × 2 = 24"
 - number: 25
   desc: "Duck and dive"
+  explanation: "Rhymes with 'Twenty-five', and looks like a duck (2) and an upside-down duck (5)"
 - number: 26
   desc: "A to Z"
+  explanation: "Refers to the twenty-six letters in the alphabet"
 - number: 27
   desc: "Duck and a crutch"
+  explanation: "The number 2 looks like a duck, and the number 7 looks like a crutch"
 - number: 28
   desc: "In a state"
+  explanation: "'Two and eight' is rhyming slang for 'state'"
 - number: 29
   desc: "Rise and Shine"
+  explanation: "Rhymes with 'Twenty-nine'"
 - number: 30
   desc: "Dirty Gertie"
+  explanation: "Rhyme derived from the name Gertrude, also refers to a Second World War song"
 - number: 31
   desc: "Get Up and Run"
+  explanation: "Rhymes with 'Thirty-one'"
 - number: 32
   desc: "Buckle My Shoe"
+  explanation: "Rhymes with 'Thirty-two'"
 - number: 33
   desc: "Fish, chips and peas"
+  explanation: "Rhymes with 'Thirty-three"
 - number: 34
   desc: "Ask for More"
+  explanation: "Rhymes with 'Thirty-four'"
 - number: 35
   desc: "Jump and Jive"
+  explanation: "A dance step"
 - number: 36
   desc: "Triple dozen"
+  explanation: "3 x 12 = 36"
 - number: 37
-  desc: "Seventy Three's"
+  desc: "Seventy threes"
+  explanation: ""
 - number: 38
   desc: "Christmas cake"
+  explanation: "Cockney rhyming slang"
 - number: 39
   desc: "Steps"
+  explanation: "From 'The 39 Steps'"
 - number: 40
   desc: "Life Begins"
-- number: 41
-  desc: ""
-- number: 42
-  desc: ""
+  explanation: "refers to the proverb 'life begins at forty'"
 - number: 43
   desc: "Down on your knees"
+  explanation: "Phrase used during wartime by soldiers"
 - number: 44
   desc: "Droopy drawers"
+  explanation: "Rhyme referring to sagging trousers"
 - number: 45
   desc: "Halfway there"
+  explanation: "Being halfway towards 90, the hightest number in bingo"
 - number: 46
-  desc: "Up to tricks"
-- number: 47
-  desc: ""
+  desc: "up to tricks"
+  explanation: "Rhymes with 'Forty-six'"
 - number: 48
   desc: "Four Dozen"
+  explanation: "4 x 12 = 48"
 - number: 49
   desc: "PC"
+  explanation: "Refers to the BBC Radio series 'The Adventures of PC 49'"
 - number: 50
-  desc: "It's a bulls eye"
+  desc: "It's a bullseye!"
+  explanation: "Referring to the darts score"
+- number: 52
+  desc: "Danny La Rue"
+  explanation: "Refers to drag entertainer Danny La Rue"
+- number: 53
+  desc: "Here comes Herbie"
+  explanation: "53 is the racing number of Herbie the VW Beetle"
+- number: 54
+  desc: "Man at the door"
+  explanation: "Rhymes with 'Fifty-four'"
+- number: 55
+  desc: "All the fives"
+  explanation: "All numbers are five, the only in bingo"
+- number: 56
+  desc: "Shotts Bus"
+  explanation: "Refers to the former number of the bus from Glasgow to Shotts"
+- number: 57
+  desc: "Heinz Varieties"
+  explanation: "Refers to 'Heinz 57', the '57 Varieties' slogan of the H. J. Heinz Company"
+- number: 59
+  desc: "The Brighton Line"
+  explanation: "Quote from The Importance of Being Earnest, also the original starting digits of Brighton phone numbers"
+- number: 60
+  desc: "Grandma's getting frisky"
+  explanation: "Close rhyme with 'Sixty'"
+- number: 62
+  desc: "Tickety-boo"
+  explanation: "Rhymes with 'Sixty-two'"
+- number: 63
+  desc: "Katie's bad knee"
+  explanation: "Rhymes with 'Sixty-three', also refers to a Warwickshire resident of the same name"
+- number: 64
+  desc: "Almost retired"
+  explanation: "Refers to the former British male age of mandatory retirement - specifically being one year away from it"
+- number: 65
+  desc: "Retirement age, Stop work"
+  explanation: "Refers to the former male British age of mandatory retirement"
+- number: 66
+  desc: "Clickety click"
+  explanation: "Rhymes with 'Sixty-six'"
+- number: 67
+  desc: "Stairway to Heaven"
+  explanation: "Coined by Andrew 'CIP' Lavelle"
+- number: 68
+  desc: "Pick a Mate Coined by Edward James Mackey II"
+- number: 69
+  desc: "A Favourite of mine"
+  explanation: "Rhymes with 'Sixty-nine', also refers to the 69 sex position"
+- number: 71
+  desc: "Bang on the Drum"
+  explanation: "Rhymes with 'Seventy-one'"
+- number: 72
+  desc: "Danny La Rue"
+  explanation: "Rhymes with 'Seventy-two'"
+- number: 73
+  desc: "Under The Tree"
+  explanation: "Rhymes with 'Seventy-three'"
+- number: 74
+  desc: "Hit the Floor"
+  explanation: "Rhymes with 'Seventy-four'"
+- number: 76
+  desc: "Trombones"
+  explanation: "'Seventy-Six Trombones' is a popular marching song, from the musical The Music Man"
+- number: 77
+  desc: "Two little crutches"
+  explanation: "The number 77 resembles 2 crutches"
+- number: 78
+  desc: "39 more steps"
+  explanation: "39 + 39 = 78, refers to 'The 39 Steps'"
+- number: 80
+  desc: "Gandhi's Breakfast"
+  explanation: "Ate nothing"
+- number: 81
+  desc: "Fat Lady with a walking stick"
+  explanation: "The number 8 looks like a fat lady, and the number 1 looks like a walking stick"
+- number: 83
+  desc: "Time for Tea"
+  explanation: "Rhymes and scans"
+- number: 84
+  desc: "Seven dozen"
+  explanation: "7 x 12 = 84"
+- number: 85
+  desc: "Staying alive"
+  explanation: "Rhymes with 'Eighty-five'"
+- number: 86
+  desc: "Between the sticks"
+  explanation: "Rhymes with 'Eighty-six', and refers to the position of goalkeeper in football"
+- number: 87
+  desc: "Torquay in Devon"
+  explanation: "Rhymes with 'Eighty-seven', and refers Torquay in the county of Devon, rather than one of several other Torquays which were elsewhere in the British Empire"
+- number: 88
+  desc: "Two Fat Ladies"
+  explanation: "The number 88 looks like two fat ladies stood together"
+- number: 89
+  desc: "Nearly there"
+  explanation: "89 is one away from 90 (the end of the bingo numbers)"
+- number: 90
+  desc: "Top of the shop"
+  explanation: "90 is the highest (top) number in bingo"
