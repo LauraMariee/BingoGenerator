@@ -69,7 +69,7 @@ numbers:
   desc: "The Lord is My Shepherd"
   explanation: "The first words of Psalm 23 of the Old Testament"
 - number: 24
-  dec: "Two dozen"
+  desc: "Two dozen"
   explanation: "12 × 2 = 24"
 - number: 25
   desc: "Duck and dive"
@@ -183,7 +183,8 @@ numbers:
   desc: "Stairway to Heaven"
   explanation: "Coined by Andrew 'CIP' Lavelle"
 - number: 68
-  desc: "Pick a Mate Coined by Edward James Mackey II"
+  desc: "Pick a Mate"
+  explanation: "Coined by Edward James Mackey II"
 - number: 69
   desc: "A Favourite of mine"
   explanation: "Rhymes with 'Sixty-nine', also refers to the 69 sex position"
